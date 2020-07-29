@@ -48,8 +48,8 @@
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
     <version>7.1.0</version>
-    <scope>compile</scope>
 </dependency>
+		 <!--   <scope>compile</scope> -->
 
 
 		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->
